@@ -13,26 +13,36 @@ To interact with the interactive maps section:
 
 ### Supported Countries
 The interactive maps section currently supports the following 20 countries:
-1. United States - Displays the location of our headquarters in New York City.
-2. United Kingdom - Shows the location of our London office.
-3. Germany - Highlights our office in Berlin.
-4. France - Indicates our presence in Paris.
-5. Japan - Highlights our office in Tokyo.
-6. Australia - Displays the location of our Sydney office.
-7. Canada - Indicates our office in Toronto.
-8. Brazil - Shows the location of our office in São Paulo.
-9. China - Highlights our office in Beijing.
-10. India - Indicates our presence in Mumbai.
-11. Italy - Displays the location of our office in Rome.
-12. Spain - Shows our office in Madrid.
-13. Mexico - Indicates our presence in Mexico City.
-14. South Korea - Highlights our office in Seoul.
-15. Netherlands - Displays the location of our office in Amsterdam.
-16. Russia - Shows our office in Moscow.
-17. Singapore - Indicates our presence in Singapore City.
-18. Sweden - Highlights our office in Stockholm.
-19. Switzerland - Displays the location of our office in Zurich.
-20. UAE - Indicates our presence in Dubai.
+
+1. United States 
+2. United Kingdom 
+3. Serbia
+4. France 
+5. Japan 
+6. Hungary 
+7. Ukraine 
+8. Ivory Coast
+9. Peru
+10. India
+11. Turkey
+12. Georgia
+13. Venezuela
+14. Argentina
+16. Lithuania
+17. Armenia
+18. Ireland
+19. Phillippines
+20. Singapore
+21. Uruguay
+22. Colombia
+23. Switzerland
+24. Latvia
+25. Romania
+26. Germany
+27. Krygyzstan
+28. Hongkong
+
+United States", "Serbia", "India", "Ukraine", "Hungary", "Sweden", "China", "IvoryCoast", "Peru", "Turkey", "Georgia", "France", "Japan", "Venezuela", "Argentina", "Lithuania", "Armenia", "Ireland", "UnitedKingdom", "Philippines", "Singapore", "Uruguay", "Colombia", "Switzerland", "Latvia", "Romania", "Germany", "Kyrgyzstan", "HongKong"
 
 ### Demo
 
